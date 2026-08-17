@@ -2,9 +2,17 @@
 
 [[MAM]] 
 
+[[Device identities]]
 
+[[Licensing]] 
 
+[[RBAC]]
 
+[[Groups]]
+
+[[Management models]]
+
+[[Admin units]]
 
 Architecture : 
 ![[Architecture Intune.png|697]]

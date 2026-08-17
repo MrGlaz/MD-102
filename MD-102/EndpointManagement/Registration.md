@@ -1,0 +1,3 @@
+- Personal Windows, iOS, Android and macOS devices
+- Bring-your-own-device (BYOD) scenarios
+- Devices where users need access to organizational email, files or applications

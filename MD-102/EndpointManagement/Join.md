@@ -1,0 +1,4 @@
+- Cloud-first organizations without on-premises infrastructure
+- Corporate-owned Windows 10/11 devices
+- Devices that need full organizational control
+- Scenarios requiring BitLocker encryption management

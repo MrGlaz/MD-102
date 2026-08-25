@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD-102/EndpointManagement/Device identities.md",
+                "file": "MD-102/EndpointManagement/Enrollment strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Device identities"
+              "title": "Enrollment strategy"
             }
           }
         ]
@@ -187,9 +187,12 @@
   },
   "active": "8026b30501e93b18",
   "lastOpenFiles": [
+    "MD-102/Enrollment method.png",
     "MD-102/EndpointManagement/Authentication methods.md",
-    "MD-102/EndpointManagement/Hybrid joined.md",
+    "MD-102/EndpointManagement/Enrollment strategy.md",
     "MD-102/EndpointManagement/Device identities.md",
+    "MD-102/EndpointManagement/Join.md",
+    "MD-102/EndpointManagement/Hybrid joined.md",
     "MD-102/EndpointManagement/Admin units.md",
     "MD-102/EndpointManagement/Management models.md",
     "MD-102/Authentication methodes.png",
@@ -197,7 +200,6 @@
     "MD-102/EndpointManagement/Groups.md",
     "MD-102/EndpointManagement/Intune.md",
     "MD-102/EndpointManagement/Entra ID.md",
-    "MD-102/EndpointManagement/Join.md",
     "MD-102/EndpointManagement/Registration.md",
     "MD-102/EndpointManagement/MDM.md",
     "MD-102/EndpointManagement/Licensing.md",

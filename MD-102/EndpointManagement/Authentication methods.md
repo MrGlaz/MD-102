@@ -6,16 +6,16 @@ TPM
 
 ![[Authentication methodes.png]]
 
-Tier 1 (no PKI)
-Cloud Kerberos auth - hybrid - uses Entra Kerberos
+Note structure : **Decision Drivers** (Deployment Type, Security Hardware, and PKI Requirements):
 
-Tier 2 (DC certs)
-Key trust
-
-Tier 3 (DC-user)
-Certificate Trust
-TPM 2.0 on W11 for compliance
-
+| **Environment Scenario**     | **Recommended Trust Type** | **On-Prem PKI Needed?**  | **Deployment Effort** |
+| ---------------------------- | -------------------------- | ------------------------ | --------------------- |
+| **Cloud-Only**               | **Cloud Kerberos trust**   | **No**                   | **Low**               |
+| **Hybrid (No PKI)**          | **Cloud Kerberos trust**   | **No**                   | **Medium**            |
+| **Hybrid (DC Certs Only)**   | **Key trust**              | Yes (Domain Controllers) | **Medium**            |
+| **Hybrid (DC + User Certs)** | **Certificate trust**      | Yes (DCs & Users)        | **High**              |
+**Cloud-Only** or **Hybrid without PKI** = **Cloud Kerberos trust**
+PKI/On-Prem AD = **TPM 2.0** (hardware-backed)
 
 **Cloud-only tenants**: No trust type is required;
 **Hybrid tenants — new deployments**: Cloud Kerberos trust.

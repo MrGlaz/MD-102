@@ -11,14 +11,12 @@
             "id": "8026b30501e93b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MD-102/EndpointManagement/Enrollment strategy.md",
-                "mode": "source",
-                "source": false
+                "file": "MD-102/deployment scenarios.png"
               },
-              "icon": "lucide-file",
-              "title": "Enrollment strategy"
+              "icon": "lucide-image",
+              "title": "deployment scenarios"
             }
           }
         ]
@@ -185,11 +183,17 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "8026b30501e93b18",
+  "active": "ed1f11dbffe03069",
   "lastOpenFiles": [
+    "fsdfs",
+    "MD-102/EndpointManagement/Windows Autopilot.md",
+    "MD-102/deployment scenarios.png",
     "MD-102/Enrollment method.png",
-    "MD-102/EndpointManagement/Authentication methods.md",
+    "MD-102/EndpointManagement/Licensing.md",
+    "MD-102/EndpointManagement/RBAC.md",
+    "MD-102/EndpointManagement/Troubleshoot.md",
     "MD-102/EndpointManagement/Enrollment strategy.md",
+    "MD-102/EndpointManagement/Authentication methods.md",
     "MD-102/EndpointManagement/Device identities.md",
     "MD-102/EndpointManagement/Join.md",
     "MD-102/EndpointManagement/Hybrid joined.md",
@@ -202,8 +206,6 @@
     "MD-102/EndpointManagement/Entra ID.md",
     "MD-102/EndpointManagement/Registration.md",
     "MD-102/EndpointManagement/MDM.md",
-    "MD-102/EndpointManagement/Licensing.md",
-    "MD-102/EndpointManagement/RBAC.md",
     "MD-102/EndpointManagement/MAM.md",
     "MD-102/Architecture Intune.png"
   ]

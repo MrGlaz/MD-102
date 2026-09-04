@@ -25,3 +25,16 @@ Requirements :
 - Devices not already joined or registered to another tenant
 
 ![[Enrollment method.png]]
+
+
+ADE : install Company Portal without prompting for an Apple ID, use VPP to deploy it.
+
+**Setup Assistant with modern authentication (recommended)**
+
+To enable ADE enrollment, you use both Intune and Apple Business Manager (ABM) or Apple School Manager (ASM).
+
+Apple Automated Device Enrollment (ADE) is an online service that automates the enrollment and configuration of Apple macOS devices to MDM.
+
+
+For Android, use Managed Google Play.
+

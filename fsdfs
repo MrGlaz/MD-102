@@ -1,0 +1,29 @@
+[33mcommit 747a4a20fd2e03252a858ab23826516e1913db3b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Robert Glaz <rglaz@montechnicien.com>
+Date:   Fri Sep 4 17:27:50 2026 -0400
+
+    Finishing  module > Device Enrollment Windows/Apple/Android. Starting new module about Windows Autopilot. Seems super interesting to just configure and let the magic happens.
+
+[33mcommit 72226333c63e43970c0ff322a091086605dd22e9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Robert Glaz <rglaz@montechnicien.com>
+Date:   Tue Aug 25 08:28:39 2026 -0400
+
+    Adding authentication methods and enrollment strategies
+
+[33mcommit 3bb7c3c300f84154a13d265c7873666ba490172f[m
+Author: Robert Glaz <rglaz@montechnicien.com>
+Date:   Mon Aug 17 16:46:44 2026 -0400
+
+    multiple commits at once related to Intune MD-102 course
+
+[33mcommit 1d79c62aed63a0f399e6201f8100f7593eaa63c9[m
+Author: Robert Glaz <rglaz@montechnicien.com>
+Date:   Tue Aug 4 08:35:06 2026 -0400
+
+    .
+
+[33mcommit ef33cfdbcbb47644ab0d1e7f42be9e55ae30c87b[m
+Author: MrGlaz <r.glazfr@gmail.com>
+Date:   Tue Aug 4 00:21:56 2026 -0400
+
+    Switching to MD-102 Endpoint Administrator Associate certification to help me get better at deploying devices

@@ -1,3 +1,21 @@
 
 Scenarios
 ![[deployment scenarios.png]]
+
+1. Connect device to the internet
+2. Sign in with org acount
+3. Device auto joins Entra ID and enrolls the device
+
+
+Type of device enrollements :
+
+| Scenario                         | Join Type                   | User Interaction                  | Key Requirement                                        | Notes                                                                          |
+| -------------------------------- | --------------------------- | --------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **User-driven**                  | Entra (preferred) or Hybrid | Full OOBE setup by user           | Device registered + profile assigned + MDM auto-enroll | Hybrid needs Intune Connector for AD + on-prem access                          |
+| **Self-deploying**               | Entra only                  | None (or minimal for Wi-Fi)       | TPM 2.0 + attestation                                  | Ends at sign-in screen; kiosk-friendly ; zero-touch ; shared screens (no user) |
+| **Autopilot Device preparation** | Entra only                  | Minimal                           | Win11 only, no hardware hash needed                    | Uses Enrollment Time Grouping                                                  |
+| **Existing devices**             | Entra or Hybrid             | Runs at next OOBE                 | Reimage + Autopilot config file (e.g. ConfigMgr)       | Converts old devices to modern mgmt                                            |
+| **Pre-provisioned**              | Entra or Hybrid             | User finishes final settings only | TPM 2.0 + attestation, no VMs                          | IT preps apps/policies in advance                                              |
+| **Autopilot Reset**              | Entra only                  | None (wipe + reapply config)      | N/A                                                    | Keeps Entra ID + Intune enrollment                                             |
+
+

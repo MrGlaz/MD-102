@@ -11,12 +11,14 @@
             "id": "8026b30501e93b18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MD-102/deployment scenarios.png"
+                "file": "MD-102/EndpointManagement/Windows Autopilot.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "deployment scenarios"
+              "icon": "lucide-file",
+              "title": "Windows Autopilot"
             }
           }
         ]
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "db7434f0393f2dbc",
@@ -183,17 +185,17 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "ed1f11dbffe03069",
+  "active": "8026b30501e93b18",
   "lastOpenFiles": [
+    "MD-102/EndpointManagement/Authentication methods.md",
+    "MD-102/deployment scenarios.png",
     "fsdfs",
     "MD-102/EndpointManagement/Windows Autopilot.md",
-    "MD-102/deployment scenarios.png",
     "MD-102/Enrollment method.png",
     "MD-102/EndpointManagement/Licensing.md",
     "MD-102/EndpointManagement/RBAC.md",
     "MD-102/EndpointManagement/Troubleshoot.md",
     "MD-102/EndpointManagement/Enrollment strategy.md",
-    "MD-102/EndpointManagement/Authentication methods.md",
     "MD-102/EndpointManagement/Device identities.md",
     "MD-102/EndpointManagement/Join.md",
     "MD-102/EndpointManagement/Hybrid joined.md",

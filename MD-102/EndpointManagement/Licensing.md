@@ -10,3 +10,6 @@ E3/E5 {Intune Suite} - july 2026
 
 
 P2 PIM provides detailed tracking of role activations and usage
+
+
+![[Difference E5-Premium.png]]

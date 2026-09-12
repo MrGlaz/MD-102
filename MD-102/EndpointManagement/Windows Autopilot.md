@@ -1,4 +1,6 @@
 
+Windows Autopilot requires the hardware ID of each machine to be uploaded before the machine can be used with Autopilot.
+
 Scenarios
 ![[deployment scenarios.png]]
 
@@ -19,3 +21,11 @@ Type of device enrollements :
 | **Autopilot Reset**              | Entra only                  | None (wipe + reapply config)      | N/A                                                    | Keeps Entra ID + Intune enrollment                                             |
 
 
+Feature update deferral limit : 365 days
+Quality (security) update deferral : 30 days
+
+he Endpoint security > Disk encryption policy type is purpose-built for BitLocker (and FileVault on macOS), including silent encryption enforcement and automatic recovery key escrow to Azure AD.
+
+CA to block app access/exposure of non-compliant devices
+
+App protection policies (MAM) apply data-loss-prevention controls — like blocking cut/copy/paste and 'save as' into unmanaged apps — directly to the app, so they work even on personal, unenrolled devices.

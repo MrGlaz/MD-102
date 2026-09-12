@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD-102/EndpointManagement/Windows Autopilot.md",
+                "file": "MD-102/EndpointManagement/Application Lifecycle & UX/App lifecycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Autopilot"
+              "title": "App lifecycle"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.3000183105469
   },
   "right": {
     "id": "db7434f0393f2dbc",
@@ -187,19 +187,25 @@
   },
   "active": "8026b30501e93b18",
   "lastOpenFiles": [
+    "MD-102/app lifecycle.png",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/App lifecycle.md",
+    "MD-102/EndpointManagement/Admin units.md",
+    "MD-102/EndpointManagement/Random notes.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX",
+    "MD-102/EndpointManagement/Windows Autopilot.md",
+    "MD-102/EndpointManagement/Licensing.md",
+    "MD-102/Difference E5-Premium.png",
+    "MD-102/EndpointManagement/Endpoint Security.md",
+    "MD-102/EndpointManagement/Enrollment strategy.md",
     "MD-102/EndpointManagement/Authentication methods.md",
     "MD-102/deployment scenarios.png",
     "fsdfs",
-    "MD-102/EndpointManagement/Windows Autopilot.md",
     "MD-102/Enrollment method.png",
-    "MD-102/EndpointManagement/Licensing.md",
     "MD-102/EndpointManagement/RBAC.md",
     "MD-102/EndpointManagement/Troubleshoot.md",
-    "MD-102/EndpointManagement/Enrollment strategy.md",
     "MD-102/EndpointManagement/Device identities.md",
     "MD-102/EndpointManagement/Join.md",
     "MD-102/EndpointManagement/Hybrid joined.md",
-    "MD-102/EndpointManagement/Admin units.md",
     "MD-102/EndpointManagement/Management models.md",
     "MD-102/Authentication methodes.png",
     "MD-102/EndpointManagement/DynamicGroupsRules.md",

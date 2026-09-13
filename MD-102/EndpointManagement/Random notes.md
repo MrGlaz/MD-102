@@ -1,3 +1,6 @@
+> Start by quantifying business impact in terms your organization values.
+> Telemetry, interruption in workflows, lost work, long booting, lost selling opportunitiesm business outcomes, productivity losses, compliance risks, company security rules, continuous improvement.
+> Build trust in IT team.
 
 **Policy for Office Apps** = configure feedback settings + privacy controls
 
@@ -9,7 +12,7 @@
 * **Delivery Optimization** template >> reduces bandwidth consumption when devices download applications and updates.
 * Configure OS updates, and use DDM (Declarative Device Management) with a target OS version and time to enforce the update by a defined deadline
 
-**App Protection policies** = secure apps managed/unmanaged devices but do not allow configuration
+[[App Protection policies]] = secure apps managed/unmanaged devices but do not allow configuration
 - prevent saving company data to personal storage location
 - restrict copy-and-paste functions
 
@@ -19,21 +22,21 @@
 
 Security baselines = set up base line rules for security (do not enroll devices)
 
-**Conditional launch** = device and OS settings.
-**Conditional Access** = access controls to the data.
+[[Conditional launch]] = device and OS settings.
+[[Conditional Access]] = access controls to the data.
 
 Line of Business (LOB) app
 
 VPN solution = secures communications
+Deploy VPN with a Device Configuration profile with templates.
 
 Microsoft Defender = endpoint security (not apps or data)
 
 Notion de : directly address app-level data protection
 
-**Compte DEM (Device Enrollement Manager)** = enroll up to 1000 devices with 1 account, up to 150 DEM accounts per tenant
+**DEM (Device Enrollment Manager) account** = enroll up to 1000 devices with 1 account, up to 150 DEM accounts per tenant
 
 Feature update policy = allows to upgrade to W11
-
 
 **Device configuration profile**: applies general settings to devices (Wi-Fi, VPN, restrictions, certificates, etc.), not update-related at all.
 
@@ -41,10 +44,18 @@ Feature update policy = allows to upgrade to W11
 
 **Quality update policy**: controls the rollout timing of monthly cumulative/security patches for an already-installed Windows version.
 
-**Update ring policy**: an older, all-in-one policy that controls both feature and quality update deferral/scheduling together for a group of devices (the predecessor to splitting it into the two policies above). Allow to postpone update
+- Talking about _scheduling/behavior_ → **Update ring**
+- Talking about _OS version_ → **Feature update policy**
+- Talking about _this month's patch_ → **Quality update**
+
+**[[Update ring]] policy**: an older, all-in-one policy that controls both feature and quality update deferral/scheduling together for a group of devices (the predecessor to splitting it into the two policies above). Allow to postpone update
 
 **Windows feature update device readiness report** = shows devices with statuses
 
-**Windows feature update device comptaiblity risks report** = about apps or drivers
+**Windows feature update device compatibility risks report** = about apps or drivers
 
-Endpoint Analytics to generate a hardware readiness report (for compability)
+[[Endpoint Analytics]] to generate a hardware readiness report (for compatibility)
+
+Hotpatch = installing security updates without rebooting.
+
+[[Trusted certificate]] deployment = W11, Android, iOS

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD-102/EndpointManagement/Application Lifecycle & UX/App lifecycle.md",
+                "file": "MD-102/EndpointManagement/Endpoint Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App lifecycle"
+              "title": "Endpoint Security"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.3000183105469
+    "width": 365.5
   },
   "right": {
     "id": "db7434f0393f2dbc",
@@ -176,45 +176,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "8026b30501e93b18",
   "lastOpenFiles": [
-    "MD-102/app lifecycle.png",
-    "MD-102/EndpointManagement/Application Lifecycle & UX/App lifecycle.md",
-    "MD-102/EndpointManagement/Admin units.md",
+    "MD-102/EndpointManagement/Retire and Reset.md",
+    "MD-102/EndpointManagement/Remote Help.md",
+    "MD-102/EndpointManagement/App Protection/App Protection Policies.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/App configuration policies.md",
     "MD-102/EndpointManagement/Random notes.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/App lifecycle.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/Compliance.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/Monitor app install.md",
+    "MD-102/EndpointManagement/Endpoint Analytics.md",
+    "Trusted certificate.md",
+    "MD-102/EndpointManagement/Monitor and Optimize/Remediation.md",
+    "MD-102/EndpointManagement/MAM.md",
+    "MD-102/EndpointManagement/Troubleshooting + support.md",
+    "Pasted image 20260912232909.png",
+    "MD-102/troubleshoots.png",
+    "MD-102/EndpointManagement/Windows updates and lifecycle.md",
+    "MD-102/EndpointManagement/Monitor and Optimize/Update ring.md",
+    "MD-102/EndpointManagement/DynamicGroupsRules.md",
+    "MD-102/EndpointManagement/Groups.md",
+    "MD-102/EndpointManagement/Entra ID.md",
+    "MD-102/EndpointManagement/Intune Logs.md",
+    "MD-102/EndpointManagement/Intune.md",
+    "MD-102/EndpointManagement/Device profiles and Policy mngmt/Compliance policies.md",
+    "MD-102/EndpointManagement/Windows autopatch.md",
+    "MD-102/EndpointManagement/Management models.md",
+    "MD-102/EndpointManagement/MDM.md",
+    "MD-102/EndpointManagement/Powershell Intune automation.md",
+    "MD-102/EndpointManagement/Device profiles and Policy mngmt/Configuration profile.md",
+    "MD-102/remediation.png",
+    "MD-102/EndpointManagement/Device profiles and Policy mngmt",
+    "MD-102/EndpointManagement/Monitor and Optimize",
+    "MD-102/app install monitoring.png",
+    "MD-102/EndpointManagement/App Protection",
+    "MD-102/dataprotection.png",
+    "MD-102/app lifecycle.png",
     "MD-102/EndpointManagement/Application Lifecycle & UX",
-    "MD-102/EndpointManagement/Windows Autopilot.md",
-    "MD-102/EndpointManagement/Licensing.md",
     "MD-102/Difference E5-Premium.png",
-    "MD-102/EndpointManagement/Endpoint Security.md",
-    "MD-102/EndpointManagement/Enrollment strategy.md",
-    "MD-102/EndpointManagement/Authentication methods.md",
     "MD-102/deployment scenarios.png",
     "fsdfs",
     "MD-102/Enrollment method.png",
-    "MD-102/EndpointManagement/RBAC.md",
-    "MD-102/EndpointManagement/Troubleshoot.md",
-    "MD-102/EndpointManagement/Device identities.md",
-    "MD-102/EndpointManagement/Join.md",
-    "MD-102/EndpointManagement/Hybrid joined.md",
-    "MD-102/EndpointManagement/Management models.md",
-    "MD-102/Authentication methodes.png",
-    "MD-102/EndpointManagement/DynamicGroupsRules.md",
-    "MD-102/EndpointManagement/Groups.md",
-    "MD-102/EndpointManagement/Intune.md",
-    "MD-102/EndpointManagement/Entra ID.md",
-    "MD-102/EndpointManagement/Registration.md",
-    "MD-102/EndpointManagement/MDM.md",
-    "MD-102/EndpointManagement/MAM.md",
-    "MD-102/Architecture Intune.png"
+    "MD-102/Authentication methodes.png"
   ]
 }

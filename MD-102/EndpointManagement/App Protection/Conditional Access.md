@@ -1,0 +1,1 @@
+Policies in Microsoft Entra ID enforce App Protection requirements at authentication time, preventing users from bypassing security by using native unmanaged mail or browser apps

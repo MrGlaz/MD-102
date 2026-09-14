@@ -1,6 +1,7 @@
+> A device compliance policy is **platform specific**
 
 > **Compliance policies
-- Define security/health standards; Intune checks devices against them → **compliant / non-compliant / not evaluated**
+- Define security/health standards; Intune checks devices against them in the SETTINGS → **compliant / non-compliant / not evaluated**
 - Non-compliant response: notify user, mark non-compliant, or block access
 - **Bridges to Conditional Access**: Intune reports status to Entra ID → CA can require "compliant" before granting access (e.g., block Teams for non-compliant devices)
 - Platform-specific: separate policies per OS (Windows, iOS, Android)

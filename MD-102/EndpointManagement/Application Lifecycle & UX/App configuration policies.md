@@ -10,3 +10,5 @@ Available settings :
 - Language and regional settings
 - Connectivity settings
 - Feature settings
+
+> Provides configuration settings to iOS/iPadOS apps + Android apps : enrolled or not

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD-102/EndpointManagement/Endpoint Security.md",
+                "file": "MD-102/EndpointManagement/MDM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endpoint Security"
+              "title": "MDM"
+            }
+          },
+          {
+            "id": "95832413511d3e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD-102/EndpointManagement/Enroll  and unenroll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enroll  and unenroll"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +78,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -80,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 290.3000183105469
   },
   "right": {
     "id": "db7434f0393f2dbc",
@@ -185,36 +200,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "8026b30501e93b18",
+  "active": "ed1f11dbffe03069",
   "lastOpenFiles": [
-    "MD-102/EndpointManagement/Retire and Reset.md",
-    "MD-102/EndpointManagement/Remote Help.md",
+    "MD-102/EndpointManagement/Device profiles and Policy mngmt/Multi-devices limitations.md",
     "MD-102/EndpointManagement/App Protection/App Protection Policies.md",
-    "MD-102/EndpointManagement/Application Lifecycle & UX/App configuration policies.md",
-    "MD-102/EndpointManagement/Random notes.md",
-    "MD-102/EndpointManagement/Application Lifecycle & UX/App lifecycle.md",
-    "MD-102/EndpointManagement/Application Lifecycle & UX/Compliance.md",
-    "MD-102/EndpointManagement/Application Lifecycle & UX/Monitor app install.md",
-    "MD-102/EndpointManagement/Endpoint Analytics.md",
-    "Trusted certificate.md",
-    "MD-102/EndpointManagement/Monitor and Optimize/Remediation.md",
-    "MD-102/EndpointManagement/MAM.md",
-    "MD-102/EndpointManagement/Troubleshooting + support.md",
-    "Pasted image 20260912232909.png",
-    "MD-102/troubleshoots.png",
-    "MD-102/EndpointManagement/Windows updates and lifecycle.md",
-    "MD-102/EndpointManagement/Monitor and Optimize/Update ring.md",
-    "MD-102/EndpointManagement/DynamicGroupsRules.md",
-    "MD-102/EndpointManagement/Groups.md",
-    "MD-102/EndpointManagement/Entra ID.md",
-    "MD-102/EndpointManagement/Intune Logs.md",
-    "MD-102/EndpointManagement/Intune.md",
+    "MD-102/EndpointManagement/App Protection/Conditional Access.md",
     "MD-102/EndpointManagement/Device profiles and Policy mngmt/Compliance policies.md",
-    "MD-102/EndpointManagement/Windows autopatch.md",
-    "MD-102/EndpointManagement/Management models.md",
-    "MD-102/EndpointManagement/MDM.md",
-    "MD-102/EndpointManagement/Powershell Intune automation.md",
     "MD-102/EndpointManagement/Device profiles and Policy mngmt/Configuration profile.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/Compliance.md",
+    "MD-102/EndpointManagement/Application Lifecycle & UX/App configuration policies.md",
+    "MD-102/EndpointManagement/Enrollment strategy.md",
+    "MD-102/EndpointManagement/Enroll  and unenroll.md",
+    "MD-102/EndpointManagement/Windows Autopilot.md",
+    "MD-102/EndpointManagement/Windows Autopilot device preparation policy.md",
+    "MD-102/EndpointManagement/Device configuration profile.md",
+    "MD-102/EndpointManagement/Windows autopatch.md",
+    "MD-102/EndpointManagement/Endpoint Analytics.md",
+    "MD-102/EndpointManagement/Windows Configuration Designer.md",
+    "MD-102/EndpointManagement/Security baseline.md",
+    "MD-102/EndpointManagement/MAM.md",
+    "MD-102/EndpointManagement/Device profiles and Policy mngmt/Precedence.md",
+    "MD-102/EndpointManagement/Delivery Optimization.md",
+    "MD-102/EndpointManagement/Random notes.md",
+    "MD-102/EndpointManagement/Account protection.md",
+    "MD-102/EndpointManagement/Device identities.md",
+    "MD-102/EndpointManagement/Endpoint Security.md",
+    "MD-102/EndpointManagement/Registration.md",
+    "MD-102/EndpointManagement/MDM.md",
+    "MD-102/EndpointManagement/Android.md",
+    "MD-102/Conflicts.png",
+    "MD-102/troubleshoots.png",
     "MD-102/remediation.png",
     "MD-102/EndpointManagement/Device profiles and Policy mngmt",
     "MD-102/EndpointManagement/Monitor and Optimize",

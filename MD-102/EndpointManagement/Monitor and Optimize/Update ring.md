@@ -4,3 +4,4 @@
 
 **User experience settings** = how updates behave for end users:
 
+Can be paused for 35 days MAX

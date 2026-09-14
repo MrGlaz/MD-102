@@ -10,6 +10,7 @@ Manuel enrollment
 
 Configuration policies - security connectivity functionality
 Security baselines and compliance policies
+
 App deployment and management
 Monitoring and reporting - dashboards device status compliance usage health issues
 Remote actions - lock wipe reset

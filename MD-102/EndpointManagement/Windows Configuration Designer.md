@@ -1,0 +1,1 @@
+Used for creating provisioning packages. One of the options when creating a provisioning package is to remove preinstalled software.

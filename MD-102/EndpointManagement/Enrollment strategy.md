@@ -1,3 +1,6 @@
+
+> A Device Enrollment Manager is a non-administrative account that can enroll up to 1000 devices.
+
 Lifecycle
 1. Enroll
 2. Configure
@@ -9,7 +12,7 @@ Lifecycle
 - Company owned, single user (full reset)
 - Corporate, personally ok (full device control on work profile)
 
-
+[[Retire and Reset]]
 **Retire** the (corporate) data from the device
 **Wipe** the device (full reset)
 

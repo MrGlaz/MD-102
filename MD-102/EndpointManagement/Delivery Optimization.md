@@ -1,0 +1,1 @@
+reduces bandwidth consumption when devices download applications and updates.

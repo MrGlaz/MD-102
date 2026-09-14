@@ -8,7 +8,7 @@
 
 **Configuration profiles** and **Compliance policies** require a device to be managed by Intune.
 
-**Device configuration profile** = onboard devices to xxx MS product (ex : Defender for Endpoint)
+**[[Device configuration profile]]** = onboard devices to xxx MS product (ex : Defender for Endpoint)
 * **Delivery Optimization** template >> reduces bandwidth consumption when devices download applications and updates.
 * Configure OS updates, and use DDM (Declarative Device Management) with a target OS version and time to enforce the update by a defined deadline
 
@@ -34,7 +34,8 @@ Microsoft Defender = endpoint security (not apps or data)
 
 Notion de : directly address app-level data protection
 
-**DEM (Device Enrollment Manager) account** = enroll up to 1000 devices with 1 account, up to 150 DEM accounts per tenant
+[[Enrollment strategy]]
+> **DEM (Device Enrollment Manager) account** = enroll up to 1000 devices with 1 account, up to 150 DEM accounts per tenant
 
 Feature update policy = allows to upgrade to W11
 
@@ -59,3 +60,6 @@ Feature update policy = allows to upgrade to W11
 Hotpatch = installing security updates without rebooting.
 
 [[Trusted certificate]] deployment = W11, Android, iOS
+
+**The [[Endpoint Security]] Antivirus** policy controls the behavior for quarantine retention in Microsoft Defender.
+

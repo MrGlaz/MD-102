@@ -14,6 +14,7 @@ Scenarios
 3. Device auto joins Entra ID and enrolls the device
 
 
+
 Type of device enrollements :
 
 | Scenario                         | Join Type                   | User Interaction                  | Key Requirement                                        | Notes                                                                          |
@@ -54,3 +55,11 @@ Get diagnostics with PS :
 `Install-Script Get-AutopilotDiagnostics -Force`
 `Get-AutopilotDiagnostics -Online`
 
+
+> The Windows Autopilot Reset process automatically keeps information from the existing device:
+
+- Wi-Fi connection details.
+- Provisioning packages previously applied to the device.
+- A provisioning package present on a USB drive when the reset process is started.
+- Microsoft Entra device membership and mobile device management (MDM) enrollment information.
+- Simple Certificate Enrollment Protocol (SCEP) certificates.
